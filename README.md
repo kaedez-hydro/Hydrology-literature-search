@@ -1,4 +1,4 @@
-# 🌍💧 Hydrology × Remote Sensing Literature Toolkit 🔬📑
+# 🌍💧 Hydrology × Remote Sensing Literature Toolkit 📑
 ![Workflow](assets/covers/COVER.png)
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
