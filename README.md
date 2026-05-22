@@ -15,7 +15,7 @@ Three integrated CLI tools covering the full academic reference lifecycle for hy
 ## Installation
 
 ```bash
-git clone https://github.com/yourname/hydrology-literature-search.git
+git clone https://github.com/kaedez-hydro/hydrology-literature-search.git
 cd hydrology-literature-search
 pip install requests  # only dependency
 ```
