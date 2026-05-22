@@ -1,4 +1,5 @@
 # Hydrology × Remote Sensing Literature Toolkit
+![Workflow](assets/covers/JH.jpg)
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
 [![Python 3.8+](https://img.shields.io/badge/python-3.8+-green.svg)](https://python.org)
